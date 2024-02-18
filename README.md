@@ -24,7 +24,7 @@ For this repository, I've made csv file available with the stations of interest 
 
 ## 2. SPAMS model
 
-Details on the SPAMS model has been developped by Philip Conry and can be found in the publication:
+Details on the SPAMS model has been developped by Philip Conroy and can be found in the publication:
 <a href="https://www.sciencedirect.com/science/article/pii/S0016706123003762">https://www.sciencedirect.com/science/article/pii/S0016706123003762</a>
 
 ## 3. Run the Jupyter notebook
