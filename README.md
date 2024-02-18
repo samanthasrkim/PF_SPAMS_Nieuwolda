@@ -6,7 +6,7 @@ We use the subsidence model SPAMS (Contoy et al. 2022) which correlates soild mo
 ## 1. Meteorological data
 ### 1a. Groningen region and the Nieuwolda station
 
-<img src="pics/stations_area.png" width="400"><img src="pics/NWstations_maps.png" width="400">
+<img src="pics/stations_area.png" width="400"><img src="pics/NWstations_map.png" width="400">
 
 
 ### 2a. Precipitation and evapotranspiration data
@@ -18,7 +18,7 @@ For the daily evapotranspiration:
 <a href="https://www.knmi.nl/nederland-nu/klimatologie/gegevens/monv">https://www.knmi.nl/nederland-nu/klimatologie/gegevens/monv</a>
 
 For this repository, I've made csv file available with the stations of interest in he Groningen region:
-<img src="pics/input_SPAMS_example.png" width="800">
+<img src="pics/input_SPAMS_example.png" width="600">
 
 ## 2. SPAMS model
 
