@@ -3,6 +3,8 @@
 This repository provide a simple example of a particle filter application for model parameter of a subsidence model.
 We use the subsidence model SPAMS (Contoy et al. 2022) which correlates soild motion with meteorological data of the KNMI.
 
+In the following we use subsidence observations from PS-InSAR.
+
 ## 1. Meteorological data
 ### 1a. Groningen region and the Nieuwolda station
 
