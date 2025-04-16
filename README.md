@@ -1,9 +1,9 @@
 # Particle filter application for Nieuwolda (Groningen gas field)
 
-This repository provide a simple example of a particle filter application for model parameter of a subsidence model.
-We use the subsidence model SPAMS (Contoy et al. 2022) which correlates soild motion with meteorological data of the KNMI.
+This repository provides a simple example of a particle filter application for estimating parameters of a subsidence model.
+We use the subsidence model SPAMS (Conroy et al. 2022) which correlates soil motion with meteorological data from the KNMI.
 
-In the following we use subsidence observations from PS-InSAR.
+In the following we use subsidence observations from PS-InSAR. In this example, PS-InSAR are averaged over a certain area of interest.
 
 ## 1. Meteorological data
 ### 1a. Groningen region and the Nieuwolda station
@@ -19,12 +19,12 @@ For the daily precipitation:
 For the daily evapotranspiration:
 <a href="https://www.knmi.nl/nederland-nu/klimatologie/gegevens/monv">https://www.knmi.nl/nederland-nu/klimatologie/gegevens/monv</a>
 
-For this repository, I've made csv file available with the stations of interest in he Groningen region:
+For this repository, I've made a csv file with the available stations in a region of interest in the Groningen region:
 <img src="pics/input_SPAMS_example.png" width="600">
 
 ## 2. SPAMS model
 
-Details on the SPAMS model has been developped by Philip Conroy and can be found in the publication:
+Details on the SPAMS model has been developped by TUDelft and can be found in the publication:
 <a href="https://www.sciencedirect.com/science/article/pii/S0016706123003762">https://www.sciencedirect.com/science/article/pii/S0016706123003762</a>
 
 ## 3. Run the Jupyter notebook
